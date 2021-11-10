@@ -1,0 +1,24 @@
+{
+  "name": "discord_antispam",
+  "version": "1.0.0",
+  "description": "The Let's Keep Tech Council Tech Council bot. (LKTCTC)",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberwizard1001/discord_antispam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyberwizard1001/discord_antispam/issues"
+  },
+  "homepage": "https://github.com/cyberwizard1001/discord_antispam#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}

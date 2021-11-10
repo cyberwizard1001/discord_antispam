@@ -1,0 +1,8 @@
+# We don't want to bring down GitHub
+node_modules
+
+# We're using pnpm
+package-lock.json
+
+# Yeah, you ain't getting our secrets
+config.js
